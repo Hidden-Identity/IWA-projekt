@@ -1,0 +1,68 @@
+body {
+    background-color: rgb(114 189 120);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: auto;
+}
+
+header {
+    text-align: center;
+    background-color: rgb(168, 113, 87);
+    font-size: 45px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding: 10px;
+}
+
+nav {
+    float:right; 
+    text-align:right;
+	width: 26%; 
+	margin: 10px; 
+	border-style: solid;
+    font-weight:bold;
+    font-size: 20px;
+    border-radius: 3px;
+}
+
+hr {
+    border: 1px solid black;
+  }
+
+a {
+	color: rgb(21, 68, 17);
+}
+
+section {
+    padding: 100px; 
+    text-align: left;
+}
+
+table {
+    align-items: center;
+}
+
+input {
+    background-color: rgb(248, 207, 187)
+}
+
+select {
+    background-color: rgb(248, 207, 187)
+}
+
+tr {
+    background-color: rgb(138, 109, 97);
+}
+
+td {
+    background-color: rgb(192, 150, 132);
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(168, 113, 87);
+
+}
+
+input[type="checkbox"] {
+    background: rgb(248, 207, 187)
+}
+
